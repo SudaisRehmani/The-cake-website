@@ -1,0 +1,67 @@
+#logo{
+    width: 55px;
+    height:55px;
+            }
+            .title-font{
+                font-family: 'Dancing Script', cursive;
+            }
+      
+            
+            .bg-section{
+    background-image: url(./bg-about.jpg);
+    background-size: cover;
+    height: 500px;
+            }
+            .btn-styling{
+                width: 200px;
+                margin-top: 20px;
+                background-color: orange;
+                border: none;
+            }
+            /* Nav and more components bg color */
+            .bg-custom-brown{
+                background-color: #9D5939;
+            }
+          .w-title{
+            width: 80%;
+            
+          }
+          .w-subtitle{
+            width: 70%;
+          }
+          /* Section title brownish transparent background */
+            .bg-brown-subtle{
+              background-color: #9d59399f;
+            }
+           .divider{
+            width: 10rem;
+            height: 10px;
+           }
+           .about{
+            background: url(./bg-about.jpg);
+            background-size: cover;
+            background-attachment: fixed;
+            /* position: relative; */
+           }
+           .bg-event{
+            background-image: url(./bg-event.jpg);
+            background-size: cover;
+            background-attachment: fixed;
+           }
+           .btn-outline-warning:hover{
+            color: white;
+           }
+           .location-bg{
+            background: url(./bg-location.jpg);
+            background-size: cover;
+           }
+        .h-pic{
+height: 90px;
+        }
+        .bg-client-sec{
+          background: url(./bg-client-sec.jpg);
+          background-size: cover;
+        }
+         .bi{
+          cursor: pointer;
+         } 
